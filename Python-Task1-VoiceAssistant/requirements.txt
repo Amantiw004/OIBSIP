@@ -1,0 +1,11 @@
+# --- Beginner Tier ---
+SpeechRecognition==3.10.4
+pyttsx3==2.90
+
+# PyAudio is required by speech_recognition to access the microphone.
+# It often needs a special install step - see README.md "Setup Guide".
+PyAudio==0.2.14
+
+# --- Advanced Tier ---
+python-dotenv==1.0.1   # loads .env file (API keys, credentials)
+requests==2.32.3       # weather API + Wikipedia knowledge API + email helper

@@ -1,0 +1,33 @@
+# --- Secrets ---
+.env
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+ENV/
+
+# --- Packaging / distribution ---
+build/
+dist/
+*.egg-info/
+
+# --- IDE / editor ---
+.vscode/
+.idea/
+*.swp
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Logs / local test artifacts ---
+*.log
+.pytest_cache/

@@ -1,0 +1,8 @@
+{
+  "custom_commands": {
+    "your name": "My name is Assistant, your personal Python voice helper.",
+    "who made you": "I was built as part of the Oasis Infobyte internship task.",
+    "thank you": "You're welcome! Happy to help.",
+    "how are you": "I'm just a program, but I'm running great! How can I help you?"
+  }
+}
